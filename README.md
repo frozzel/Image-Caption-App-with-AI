@@ -1,4 +1,11 @@
- # Give Meaningful Names to Your Photos with AI  
+<div>
+<a href=""><img src="https://github.com/frozzel/Image-Caption-App-with-AI/blob/a8fdf94040a744c21d72abdf92599ecd50bf1f58/img_cap.png" align="center" height="" width="100%" >
+</a>
+</div>
+
+
+
+# Give Meaningful Names to Your Photos with AI  
 
 
 ## 📖 Introduction  
